@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tab_songs_white.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\ic_tab_songs_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\android.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tab_artists_grey.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\ic_tab_artists_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tab_artists_white.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\ic_tab_artists_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tab_songs_grey.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\ic_tab_songs_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tab_albums_white.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\ic_tab_albums_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tab_albums_grey.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\drawable-mdpi\\ic_tab_albums_grey.png"
+    }
+]

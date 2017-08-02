@@ -1,0 +1,1 @@
+include ':app', ':topic2', ':topic3'

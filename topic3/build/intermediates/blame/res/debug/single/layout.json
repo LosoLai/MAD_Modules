@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\relative.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\relative.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\frame.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\tab.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\linear.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\linear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\grid_layout_implicit.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\grid_layout_implicit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\tablesimple.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\tablesimple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\table.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\echo.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\echo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\build\\intermediates\\res\\merged\\debug\\layout\\grid_layout_2.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic3\\src\\main\\res\\layout\\grid_layout_2.xml"
+    }
+]

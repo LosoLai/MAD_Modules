@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mad.topic2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <!-- required by the PHONE_STATE BroadcastReceiver -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".lifecycle.test.LifecycleTestActivity"
+            android:label="@string/app_name"
+            android:process=":p1" >
+            <intent-filter>
+                <!-- MAIN entry point of the application -->
+                <action android:name="android.intent.action.MAIN" />
+                <!-- provide an icon in applications so it can be launched from device -->
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".lifecycle.test.fragment.LifecycleTestActivity"
+            android:label="@string/app_name_fragment" >
+            <intent-filter>
+                <!-- MAIN entry point of the application -->
+                <action android:name="android.intent.action.MAIN" />
+                <!-- provide an icon in applications so it can be launched from device -->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--uncomment to make second activity float to demonstrate onPause() state-->
+<!--        <activity
+            android:name=".lifecycle.test.NextActivity"
+            android:theme="@android:style/Theme.Dialog"
+            android:process=":p2" />-->
+
+        <activity
+            android:name=".lifecycle.test.NextActivity"
+            android:label="@string/app_name"
+            android:process=":p2"/>
+
+        <activity
+            android:name=".lifecycle.test.fragment.NextActivity"
+            android:label="@string/app_name_fragment" />
+
+        <receiver android:name="mad.topic2.lifecycle.test.broadcast.CallBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

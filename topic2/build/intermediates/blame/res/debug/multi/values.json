@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 37,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 45,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 45,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 50,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 50,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 69,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 69,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 58,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 58,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 66,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 66,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    }
+]

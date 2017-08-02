@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <!--
+     android:foreground="@drawable/android"
+    android:foregroundGravity="center"
+    -->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:contentDescription="@string/rmit_image_desc"
+        android:scaleType="center"
+        android:src="@drawable/rmit" />
+
+    <!-- more flexible alternative to android:foreground of FrameLayout -->
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="@string/android_image_desc"
+        android:src="@drawable/android" />
+
+</FrameLayout>

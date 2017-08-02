@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- from http://developer.android.com/resources/tutorials/views/hello-tablelayout.html -->
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:stretchColumns="0,1,2" >
+
+    <TableRow>
+
+        <TextView
+            android:layout_column="1"
+            android:text="@string/open_item" />
+
+        <TextView
+            android:gravity="left"
+            android:text="@string/open_shortcut" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_column="1"
+            android:text="@string/string_item" />
+
+        <TextView
+            android:layout_column="0"
+            android:gravity="right"
+            android:text="@string/string_shortcut" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_column="1"
+            android:text="@string/save_item" />
+
+        <TextView
+            android:gravity="right"
+            android:text="@string/save_shortcut" />
+    </TableRow>
+
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+
+    <TableRow>
+
+        <TextView
+            android:layout_column="0"
+            android:text="@string/x" />
+
+        <TextView android:text="@string/import_item" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="@string/x" />
+
+        <TextView
+            android:text="@string/export_label" />
+
+        <TextView
+            android:gravity="right"
+            android:text="@string/export_shortcut" />
+    </TableRow>
+
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+
+    <TableRow>
+
+        <TextView
+            android:layout_column="1"
+            android:text="@string/quit_label" />
+    </TableRow>
+
+</TableLayout>

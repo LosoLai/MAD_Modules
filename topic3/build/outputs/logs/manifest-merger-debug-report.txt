@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:7:5-50:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Loso\.android\build-cache\79052017f0af7eaad1b662419c5b1e77a91da15a\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Loso\.android\build-cache\94f4d1040da5bf93b68233612310339434cfa2ff\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Loso\.android\build-cache\715237712f4d6dfdd32992d11712aef15bb46692\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:gridlayout-v7:25.4.0] C:\Users\Loso\.android\build-cache\20499663b4e9609e27c30a5adc73644fe0cb6f30\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Loso\.android\build-cache\710b31121ad56686c146198360096ef60d5ec165\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Loso\.android\build-cache\6d105dd37928464a79a3066126cb8c5a9d161538\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:8:9-36
+	android:icon
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:9:9-45
+activity#mad.topic3.layout.LayoutTestActivity
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:13:13-57
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:12:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:17:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:18:27-74
+activity#mad.topic3.tab.AlbumsActivity
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:21:19-63
+activity#mad.topic3.tab.ArtistsActivity
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:23:19-64
+activity#mad.topic3.tab.SongsActivity
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:25:19-62
+activity#mad.topic3.tab.HelloTabWidgetActivity
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:31:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:34:13-37:29
+activity#mad.topic3.tab.fragment.FragmentTabWidgetActivity
+ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:40:9-49:20
+	android:label
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml:41:13-77
+uses-sdk
+INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Loso\.android\build-cache\79052017f0af7eaad1b662419c5b1e77a91da15a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Loso\.android\build-cache\94f4d1040da5bf93b68233612310339434cfa2ff\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Loso\.android\build-cache\715237712f4d6dfdd32992d11712aef15bb46692\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:gridlayout-v7:25.4.0] C:\Users\Loso\.android\build-cache\20499663b4e9609e27c30a5adc73644fe0cb6f30\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Loso\.android\build-cache\710b31121ad56686c146198360096ef60d5ec165\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Loso\.android\build-cache\6d105dd37928464a79a3066126cb8c5a9d161538\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-fragment:25.4.0] C:\Users\Loso\.android\build-cache\79052017f0af7eaad1b662419c5b1e77a91da15a\output\AndroidManifest.xml:23:9-57
+	android:targetSdkVersion
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Loso\AndroidStudioProjects\MyApplication\topic3\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-fragment:25.4.0] C:\Users\Loso\.android\build-cache\79052017f0af7eaad1b662419c5b1e77a91da15a\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Loso\.android\build-cache\94f4d1040da5bf93b68233612310339434cfa2ff\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Loso\.android\build-cache\715237712f4d6dfdd32992d11712aef15bb46692\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:gridlayout-v7:25.4.0] C:\Users\Loso\.android\build-cache\20499663b4e9609e27c30a5adc73644fe0cb6f30\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Loso\.android\build-cache\710b31121ad56686c146198360096ef60d5ec165\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Loso\.android\build-cache\6d105dd37928464a79a3066126cb8c5a9d161538\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-fragment:25.4.0] C:\Users\Loso\.android\build-cache\79052017f0af7eaad1b662419c5b1e77a91da15a\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-fragment:25.4.0] C:\Users\Loso\.android\build-cache\79052017f0af7eaad1b662419c5b1e77a91da15a\output\AndroidManifest.xml:27:13-51

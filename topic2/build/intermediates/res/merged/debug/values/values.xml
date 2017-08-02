@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#FF0000</color>
+    <dimen name="test_dimension">20dp</dimen>
+    <string name="app_name">LifecycleTest</string>
+    <string name="app_name_fragment">LifecycleTest Fragments</string>
+    <string name="next_button_text">Next Activity</string>
+    <string name="previous_button_text">Previous Activity</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Topic 3</string>
+    <string name="tab_activity_name">Hello Tab Widget Activity</string>
+    <string name="layout_activity_name">Layout Test Activity</string>
+    <string name="open_item">Open&#8230;</string>
+    <string name="open_shortcut">Ctrl-O</string>
+    <string name="string_item">Save&#8230;</string>
+    <string name="string_shortcut">Ctrl-S</string>
+    <string name="save_item">Save As&#8230;</string>
+    <string name="save_shortcut">Ctrl-S</string>
+    <string name="import_item">Import&#8230;</string>
+    <string name="prompt_text">Type here:</string>
+    <string name="ok_label">OK</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="help_label">What you typed will be echoed here</string>
+    <string name="red_label">red red red red</string>
+    <string name="green_label">green</string>
+    <string name="blue_label">blue</string>
+    <string name="row_one_label">row one</string>
+    <string name="row_two_label">row two</string>
+    <string name="row_three_label">row three</string>
+    <string name="row_four_label">row four</string>
+    <string name="type_label">Type here:</string>
+    <string name="yellow_label">yellow</string>
+    <string name="x">X</string>
+    <string name="export_label">Export&#8230;</string>
+    <string name="export_shortcut">Ctrl-E</string>
+    <string name="quit_label">Quit</string>
+    <string name="save_label">Save&#8230;</string>
+    <string name="saveas_label">Save As&#8230;</string>
+    <string name="saveas_shortcut">Ctrl-Shift-S</string>
+    <string name="rmit_image_desc">RMIT advertisement</string>
+    <string name="android_image_desc">android logo</string>
+    <string name="grid_layout_1_instructions">Type here:</string>
+
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GridLayout"><attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable>
+    <declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="float" name="layout_rowWeight"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr format="float" name="layout_columnWeight"/><attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr></declare-styleable>
+    <dimen name="default_gap">8dip</dimen>
+    <string name="android_image_desc">android logo</string>
+    <string name="app_name">Topic 3</string>
+    <string name="blue_label">blue</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="export_label">Export…</string>
+    <string name="export_shortcut">Ctrl-E</string>
+    <string name="green_label">green</string>
+    <string name="grid_layout_1_instructions">Type here:</string>
+    <string name="help_label">What you typed will be echoed here</string>
+    <string name="import_item">Import…</string>
+    <string name="layout_activity_name">Layout Test Activity</string>
+    <string name="ok_label">OK</string>
+    <string name="open_item">Open…</string>
+    <string name="open_shortcut">Ctrl-O</string>
+    <string name="prompt_text">Type here:</string>
+    <string name="quit_label">Quit</string>
+    <string name="red_label">red red red red</string>
+    <string name="rmit_image_desc">RMIT advertisement</string>
+    <string name="row_four_label">row four</string>
+    <string name="row_one_label">row one</string>
+    <string name="row_three_label">row three</string>
+    <string name="row_two_label">row two</string>
+    <string name="save_item">Save As…</string>
+    <string name="save_label">Save…</string>
+    <string name="save_shortcut">Ctrl-S</string>
+    <string name="saveas_label">Save As…</string>
+    <string name="saveas_shortcut">Ctrl-Shift-S</string>
+    <string name="string_item">Save…</string>
+    <string name="string_shortcut">Ctrl-S</string>
+    <string name="tab_activity_name">Hello Tab Widget Activity</string>
+    <string name="type_label">Type here:</string>
+    <string name="x">X</string>
+    <string name="yellow_label">yellow</string>
+</resources>

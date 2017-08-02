@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\build\\intermediates\\res\\merged\\debug\\layout\\next_activity.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\layout\\next_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\build\\intermediates\\res\\merged\\debug\\layout\\life_cycle_test_fragment.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\layout\\life_cycle_test_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\build\\intermediates\\res\\merged\\debug\\layout\\next.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\layout\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\build\\intermediates\\res\\merged\\debug\\layout\\life_cycle_test.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\layout\\life_cycle_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\build\\intermediates\\res\\merged\\debug\\layout\\next_fragment.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\layout\\next_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\build\\intermediates\\res\\merged\\debug\\layout\\life_cycle_test_activity.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic2\\src\\main\\res\\layout\\life_cycle_test_activity.xml"
+    }
+]
