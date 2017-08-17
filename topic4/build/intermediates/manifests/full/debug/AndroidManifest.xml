@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mad.topic4"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="mad.topic4.notification.NotificationDisplay"
+            android:excludeFromRecents="true"
+            android:label="@string/notification_label"
+            android:noHistory="true"
+            android:taskAffinity="" >
+
+            <!-- removed by Caspar, style defined in API samples not present in project -->
+            <!-- android:theme="@style/Theme.Transparent" > -->
+        </activity>
+        <activity
+            android:name="mad.topic4.notification.StatusBarNotifications"
+            android:label="@string/status_label"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.actionbar.NavActionBarActivity"
+            android:label="@string/status_nav"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!-- Dialog and Menu samples -->
+        <activity
+            android:name="mad.topic4.dialog.AlertDialogSamples"
+            android:label="@string/dialog_label" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.dialog.fragment.AlertDialogSamplesFragmentActivity"
+            android:label="@string/action_bar_tab_label" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.menu.MenuTestActivity"
+            android:label="@string/test_menu_label" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- hide the action bar for the basic menu test -->
+        <!-- android:theme="@android:style/Theme.Holo.NoActionBar" -->
+        <activity
+            android:name="mad.topic4.menu.MenuActivity"
+            android:label="@string/menu_label" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.gesture.GestureActivity"
+            android:label="@string/test_gestures" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.menu.refactored.actionbar.MenuTestActivity"
+            android:label="@string/test_menu_label_actionbar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- action bar visible for refactored menu test (we don't hide it) -->
+        <activity
+            android:name="mad.topic4.menu.refactored.actionbar.MenuActivity"
+            android:label="@string/menu_label_actionbar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- ActionBar API samples -->
+        <activity
+            android:name="mad.topic4.actionbar.ActionBarMechanics"
+            android:enabled="@bool/atLeastHoneycomb"
+            android:label="@string/action_bar_mechanics" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.actionbar.ActionBarUsage"
+            android:enabled="@bool/atLeastHoneycomb"
+            android:label="@string/action_bar_usage" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.actionbar.ActionBarDisplayOptions"
+            android:enabled="@bool/atLeastHoneycomb"
+            android:label="@string/action_bar_display_options"
+            android:logo="@drawable/apidemo_androidlogo" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.actionbar.ActionBarSettingsActionProviderActivity"
+            android:enabled="@bool/atLeastIceCreamSandwich"
+            android:label="@string/action_bar_settings_action_provider" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.actionbar.ActionBarShareActionProviderActivity"
+            android:enabled="@bool/atLeastIceCreamSandwich"
+            android:label="@string/action_bar_share_action_provider" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="mad.topic4.actionbar.deprecated.ActionBarTabsActivity"
+            android:label="@string/action_bar_tab_label" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="25.4.0" />
+    </application>
+
+</manifest>
