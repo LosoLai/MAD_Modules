@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/backitem"
+        android:icon="@android:drawable/ic_menu_revert"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/backitem"/>
+    <item
+        android:id="@+id/prefitem"
+        android:icon="@android:drawable/ic_menu_preferences"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/prefitem">
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/pref1"
+                    android:checked="true"
+                    android:title="@string/pref1"/>
+                <item
+                    android:id="@+id/pref2"
+                    android:title="@string/pref2"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>

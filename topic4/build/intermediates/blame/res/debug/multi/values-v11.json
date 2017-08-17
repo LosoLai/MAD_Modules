@@ -1,0 +1,537 @@
+[
+    {
+        "outputFile": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\values-v11\\bools.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 45,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 53,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\values-v11\\bools.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 53,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 574,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1848
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1853,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2275
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2280,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2700
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2705,
+                    "endColumn": 88,
+                    "endOffset": 2789
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2794,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 3035
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3040,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3284
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2940,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3289,
+                    "endColumn": 100,
+                    "endOffset": 3385
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3189,
+                        "endColumn": 100,
+                        "endOffset": 3285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3390,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3637
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3290,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3642,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3892
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3542,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3897,
+                    "endColumn": 102,
+                    "endOffset": 3995
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3797,
+                        "endColumn": 102,
+                        "endOffset": 3895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4000,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 4248
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3900,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 4148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4253,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4153,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 5076
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4561,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 4976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5081,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4981,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 5398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 5605
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 5403,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 5505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5610,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 5734
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5510,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 5634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5739,
+                    "endColumn": 70,
+                    "endOffset": 5805
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5639,
+                        "endColumn": 70,
+                        "endOffset": 5705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5810,
+                    "endColumn": 82,
+                    "endOffset": 5888
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5710,
+                        "endColumn": 82,
+                        "endOffset": 5788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5893,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 9913
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5793,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 9813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 9918,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14081
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9818,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 13981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14086,
+                    "endColumn": 90,
+                    "endOffset": 14172
+                },
+                "from": {
+                    "file": "C:\\Users\\Loso\\.android\\build-cache\\e76050ab00ccc439174b189518e789f07f3b69d8\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 13986,
+                        "endColumn": 90,
+                        "endOffset": 14072
+                    }
+                }
+            }
+        ]
+    }
+]

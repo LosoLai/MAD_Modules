@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_remote_service_binding">App/Service/Remote Service Binding</string>
+    <string name="activity_remote_service_controller">App/Service/Remote Service Controller</string>
+    <string name="app_name">Topic5</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="completed">Work completed!</string>
+    <string name="download">Do the Download</string>
+    <string name="interrupt_button_text">Interrupt Thread</string>
+    <string name="kill_process">Kill Process</string>
+    <string name="remote_call_failed">Failure calling remote service</string>
+    <string name="remote_service_binding">This demonstrates how you can connect with a persistent
+        service running in another process.  Use the kill button to see what happens when
+        the process crashes.</string>
+    <string name="remote_service_connected">Connected to remote service</string>
+    <string name="remote_service_controller">This demonstrates how you can implement persistent services
+        running in a separate process that may be started and stopped as desired.</string>
+    <string name="remote_service_disconnected">Disconnected from remote service</string>
+    <string name="remote_service_label">Sample Remote Service</string>
+    <string name="remote_service_started">Remote service has started</string>
+    <string name="remote_service_stopped">Remote service has stopped</string>
+    <string name="start_button_text">Start Thread</string>
+    <string name="start_service">Start Service</string>
+    <string name="start_task_text">Start AsyncTask</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="stop_task_text">Stop AsyncTask</string>
+    <string name="unbind_service">Unbind Service</string>
+</resources>

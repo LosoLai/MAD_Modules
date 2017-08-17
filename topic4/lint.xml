@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ButtonStyle">
+        <ignore path="res\layout\status_bar_notifications.xml" />
+    </issue>
+    <issue id="Typos">
+        <ignore path="res\values\strings.xml" />
+    </issue>
+</lint>

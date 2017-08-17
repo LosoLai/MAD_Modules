@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_popup_reminder.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\ic_popup_reminder.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_sad.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\stat_sad.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_neutral.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\stat_neutral.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alert_dialog_icon.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\alert_dialog_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_settings.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\ic_launcher_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\apidemo_androidlogo.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\apidemo_androidlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_happy.png",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\drawable-hdpi\\stat_happy.png"
+    }
+]

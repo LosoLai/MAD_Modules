@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\build\\intermediates\\res\\merged\\debug\\layout\\simple.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\src\\main\\res\\layout\\simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\build\\intermediates\\res\\merged\\debug\\layout\\downloader.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\src\\main\\res\\layout\\downloader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\build\\intermediates\\res\\merged\\debug\\layout\\remote_service_binding.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\src\\main\\res\\layout\\remote_service_binding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\build\\intermediates\\res\\merged\\debug\\layout\\rotation.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\src\\main\\res\\layout\\rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\build\\intermediates\\res\\merged\\debug\\layout\\worker_thread.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\src\\main\\res\\layout\\worker_thread.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\build\\intermediates\\res\\merged\\debug\\layout\\remote_service_controller.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\src\\main\\res\\layout\\remote_service_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\build\\intermediates\\res\\merged\\debug\\layout\\thread.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic5\\src\\main\\res\\layout\\thread.xml"
+    }
+]

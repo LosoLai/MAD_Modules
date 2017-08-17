@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    // edited by Caspar
+    // see http://tools.android.com/tech-docs/new-build-system/tips
+    buildToolsVersion '26'
+
+    defaultConfig {
+        applicationId "mad.topic4"
+        minSdkVersion 16
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:25.4.0'
+}

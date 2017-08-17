@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\menu\\actions.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\menu\\actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar_settings_action_provider.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\menu\\action_bar_settings_action_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\menu\\options.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\menu\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\menu\\display_options_actions.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\menu\\display_options_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar_share_action_provider.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\topic4\\src\\main\\res\\menu\\action_bar_share_action_provider.xml"
+    }
+]
