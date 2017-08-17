@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\ContactLoader\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\ContactLoader\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\ContactLoader\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_contact_item.xml",
+        "source": "C:\\Users\\Loso\\AndroidStudioProjects\\MyApplication\\ContactLoader\\src\\main\\res\\layout\\adapter_contact_item.xml"
+    }
+]
